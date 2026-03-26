@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "data",
+    "output",
+    "checkpoint",
+    "diffusers",
+  ],
+  "reportAttributeAccessIssue": true,
+  "reportUnknownMemberType": false,
+  "reportAssignmentType": true,
+  "reportArgumentType": true,
+  "reportReturnType": true,
+  "reportCallIssue": true,
+  "reportRedeclaration": true,
+}

@@ -1,0 +1,28 @@
+
+# ignore these folders
+/checkpoint
+/checkpoint/*
+/data
+/data/*
+/input
+/input/*
+/output
+/output/*
+/temp
+/temp/*
+/venv
+/venv/*
+/cache
+/cache/*
+/.slurm
+
+**/.ipynb_checkpoints/
+.idea
+
+# ignore these types
+*.pyc
+*.out
+*.log
+*.mexa64
+*.pdf
+*.tar
