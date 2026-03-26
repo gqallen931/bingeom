@@ -127,4 +127,4 @@ python run_ks861_realtime.py
 
 ## 版权信息
 
-© 2023 BinGeo-LDM++ 项目团队
+© 2025 BinGeo-LDM++ 项目团队
